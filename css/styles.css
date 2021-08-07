@@ -189,6 +189,9 @@ p{
 
 
 @media only screen and (max-width: 992px){
+  .box-outline{
+    backdrop-filter: blur(50px);
+  }
   ul{
     font-size: 20px;
   }
